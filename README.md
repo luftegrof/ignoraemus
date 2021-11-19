@@ -1,0 +1,3 @@
+# ignoraemus
+
+Handle (ignore) signals
