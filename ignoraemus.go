@@ -1,4 +1,4 @@
-/* Handle Interrupts */
+Handle Interrupts */
 
 package main
 
