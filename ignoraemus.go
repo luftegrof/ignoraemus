@@ -1,4 +1,3 @@
-TEST FAILURE
 package main
 
 
